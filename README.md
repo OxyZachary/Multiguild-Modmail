@@ -17,6 +17,3 @@ A simple Multi Guild Modmail Bot coded in v13 using the enmap Database Working o
 
 ## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
 <a href="https://discord.gg/milrato"><img src="https://invidget.switchblade.xyz/milrato" /></a>
-
-***
-```say e```
